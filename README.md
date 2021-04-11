@@ -3,7 +3,7 @@
 Kodluyoruz'un Frontend Developer (React) Challenge'ı için hazırlanmıştır.
 
 #### Netlify
-[To Do List](kodluyoruz-react-developer-challenge-ecenb.netlify.app "Netlify Linki")
+[To Do List](https://kodluyoruz-react-developer-challenge-ecenb.netlify.app)
 
 
 ###### Mock Up:
